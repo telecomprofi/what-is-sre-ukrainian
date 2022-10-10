@@ -4,5 +4,6 @@
 * [Postmortems](https://youtu.be/CDzkn_iSmqE)
 * [Blamlessness and Pshychological safety](https://youtu.be/MMNZHwJxlgQ)
 * [SLO and Error budget](https://www.youtube.com/watch?v=0-2WCrBcDCg&t=2s)
-* xx
-* Module 3 Quiz
+* [ffff]()
+* [Module 3 Quiz](tba)
+* [Module 3 key points and reflection activity pdf](https://github.com/telecomprofi/what-is-sre-ukrainian/blob/master/DevOps%20Engineer%20SRE%20Learning%20Path/3/Module%203%20Key%20Points%20and%20Reflection%20Activity.pdf)
