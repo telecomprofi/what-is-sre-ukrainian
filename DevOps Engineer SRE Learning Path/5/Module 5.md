@@ -1,6 +1,9 @@
 # Module 5. Regulate workload
-* [Modue 5 - Intro](https://www.youtube.com/watch?v=-JuarZLMdxs)
-* [Module 5 - Measure everything by quantifying toil and reliability](https://www.youtube.com/watch?v=KwSoknQRd2c&t=1s_)
+* [Modue 5.1 - Intro](https://www.youtube.com/watch?v=-JuarZLMdxs)
+* [Module 5.2 - Measure everything by quantifying toil and reliability](https://www.youtube.com/watch?v=KwSoknQRd2c)
+* [Module 5.3 - Goal setting](https://www.youtube.com/watch?v=DfTzzB_6__8)
+* [Module 5.4 - Quiz]()
+* [Module 5.5 - Reflections]()
 
 
 <img width="836" alt="Screenshot 2022-10-18 at 19 28 42" src="https://user-images.githubusercontent.com/17558124/196498430-679dd9b9-ecaa-4818-86ca-ffd78a6f25d2.png">
