@@ -3,7 +3,7 @@
 * [Module 5.2 - Measure everything by quantifying toil and reliability](https://www.youtube.com/watch?v=KwSoknQRd2c)
 * [Module 5.3 - Goal setting](https://www.youtube.com/watch?v=DfTzzB_6__8)
 * [Module 5.4 - Quiz](https://user-images.githubusercontent.com/17558124/196501097-f7da4f36-967d-4a51-8726-8fde6304ed6d.png)
-* [Module 5.5 - Review and Reflections](https://github.com/telecomprofi/what-is-sre-ukrainian/blob/master/DevOps%20Engineer%20SRE%20Learning%20Path/5/Module5-Reflections.pdf)
+* [Module 5.5 - Key points and Reflections](https://github.com/telecomprofi/what-is-sre-ukrainian/blob/master/DevOps%20Engineer%20SRE%20Learning%20Path/5/Module5-Key-points-and-reflections.pdf)
 
 
 <img width="836" alt="Screenshot 2022-10-18 at 19 28 42" src="https://user-images.githubusercontent.com/17558124/196498430-679dd9b9-ecaa-4818-86ca-ffd78a6f25d2.png">
