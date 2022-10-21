@@ -7,3 +7,6 @@
 * [Module 6 Quiz]()
 * [Module 6 Keya Points and Reflection Activity]()
 
+
+
+![image](https://user-images.githubusercontent.com/17558124/197215925-f0740618-c5a1-4856-9230-df062e0922ed.png)
