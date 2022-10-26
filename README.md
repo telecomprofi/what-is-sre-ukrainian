@@ -1,4 +1,4 @@
-SRE goals
+## SRE goals
 
 * Reduce silos between Devs and Ops
 * Share Responsibility of Service with Devs (SLO, Err budgets)
@@ -22,7 +22,26 @@ SRE goals
 
 
 ----
-Training
+## Training
 
 * [Google DevOps Engineering/SRE lerning path](https://www.cloudskillsboost.google/paths/20)
 * [Google IT Automation](https://www.coursera.org/professional-certificates/google-it-automation)
+
+
+
+----
+## SRE Implementation plan (c) telecomprofi
+
+* Blameless Postmortems and RCA (Psychological Safety)
+
+![image](https://github.com/telecomprofi/what-is-sre-ukrainian/blob/master/SRE%20Implementation%20plan-Blamless%20Post-mortems.jpg)
+* SLO SLI Error Budgets agreement (SLO with consequences)
+
+![image](https://github.com/telecomprofi/what-is-sre-ukrainian/blob/master/SRE%20Implementation%20plan-SLI%20SLO%20Error%20Buget.jpg)
+* Measure everything (Monitoring)
+
+![image](https://github.com/telecomprofi/what-is-sre-ukrainian/blob/master/SRE%20Implementation%20plan-Monitoring.jpg)
+* Autamate you job away (CI/CD)
+
+![image](https://github.com/telecomprofi/what-is-sre-ukrainian/blob/master/SRE%20Implementation%20plan-CI_CD.jpg)
+
