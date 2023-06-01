@@ -45,3 +45,7 @@
 
 ![image](https://github.com/telecomprofi/what-is-sre-ukrainian/blob/master/SRE%20Implementation%20plan-CI_CD.jpg)
 
+
+### Hiring Matrix SRE/DevOps
+![image](https://github.com/telecomprofi/what-is-sre-ukrainian/assets/17558124/8ee6e0a5-11ed-4155-9da5-b7a330cce789)
+
