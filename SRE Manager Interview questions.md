@@ -1,6 +1,6 @@
 
-SRE Manager Interview questions
 
+## SRE Manager Interview questions
 
 ### Q: Explain what happens (in as much detail as possible) when you type in https:// address of the main page of Web-service into the URL field of  your home PC browser, connected to ISP via fiber optic cable.
 
