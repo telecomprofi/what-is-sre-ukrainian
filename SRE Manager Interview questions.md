@@ -51,7 +51,7 @@ Informing:
 
 ### Q: Communication is essential for effective incident response and post-incident analysis. How do you ensure clear and efficient communication within your SRE team and with other stakeholders during incidents?
 
-Q. What are key SRE Pillars? Can you explain them?
+### Q: What are key SRE Pillars? Can you explain them?
 A:  
 Embrace failure/Manage risks
 SLO with consequences
@@ -59,7 +59,7 @@ Observability of everything (Four Golden Signals)
 Toil elimination/Automation
 CI/CD
 
-Q. Can you describe in as much detail as possible  how the Load balancer at L7 works? What is the difference to L4 LB?
+### Q: Can you describe in as much detail as possible  how the Load balancer at L7 works? What is the difference to L4 LB?
 
 
 ### Q: What is the difference between event and alert in monitoring?
